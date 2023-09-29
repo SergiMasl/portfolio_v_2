@@ -28,11 +28,11 @@ export default function Header() {
                 <i className="uil uil-file-alt nav-icon"></i>Skills
               </a>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <a href="#serviservicesse" className="nav-link">
                 <i className="uil uil-briefcase-alt nav-icon"></i>Services
               </a>
-            </li>
+            </li> */}
             <li className="nav-item">
               <a href="#portfolio" className="nav-link">
                 <i className="uil uil-scenery nav-icon"></i>Portfolio
