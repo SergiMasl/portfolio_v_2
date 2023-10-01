@@ -29,10 +29,10 @@ export default function Qualification() {
                     <div className={toggleState === 1 ? "qualification-content qualification-content-active" : "qualification-content"}>
                         <div className="qualification-data">
                             <div>
-                                <h3 className="qualification-title">Web Dis</h3>
-                                <span className="qualification-subtitle">Institute</span>
+                                <h3 className="qualification-title">Western Michigan University</h3>
+                                <span className="qualification-subtitle">Bio Medical Bachelor's degree</span>
                                 <div className="qualification-calender">
-                                    <i className="uil uil-calendar-alt"></i> 2022 - 211
+                                <i class="uil uil-location-point"></i> The USA
                                 </div>
                             </div>
                             <div>
@@ -49,20 +49,20 @@ export default function Qualification() {
                             </div>
 
                             <div>
-                                <h3 className="qualification-title">Art 2</h3>
-                                <span className="qualification-subtitle">Institute</span>
+                                <h3 className="qualification-title">Kalamazoo Vally CC</h3>
+                                <span className="qualification-subtitle">Biological Sciences</span>
                                 <div className="qualification-calender">
-                                    <i className="uil uil-calendar-alt"></i> 2022 - Present
+                                <i class="uil uil-location-point"></i>The USA
                                 </div>
                             </div>
                         </div>
 
                         <div className="qualification-data">
                             <div>
-                                <h3 className="qualification-title">Web Dis</h3>
-                                <span className="qualification-subtitle">Institute</span>
+                                <h3 className="qualification-title">Kemerovo State  University</h3>
+                                <span className="qualification-subtitle">Psychic Bachelor's degree</span>
                                 <div className="qualification-calender">
-                                    <i className="uil uil-calendar-alt"></i> 2022 - Present
+                                <i class="uil uil-location-point"></i>Russia
                                 </div>
                             </div>
                             <div>
@@ -71,30 +71,20 @@ export default function Qualification() {
                             </div>
                         </div>
 
-                        <div className="qualification-data">
-                            <div></div>
-                            <div>
-                                <span className="qualification-rounder"></span>
-                                <span className="qualification-line"></span>
-                            </div>
-
-                            <div>
-                                <h3 className="qualification-title">Art 2</h3>
-                                <span className="qualification-subtitle">Institute</span>
-                                <div className="qualification-calender">
-                                    <i className="uil uil-calendar-alt"></i> 2022 - Present
-                                </div>
-                            </div>
-                        </div>
+                        
+                     
                     </div>
 
                     <div className={toggleState === 2 ? "qualification-content qualification-content-active" : "qualification-content"}>
                         <div className="qualification-data">
                             <div>
-                                <h3 className="qualification-title">Web Dis</h3>
-                                <span className="qualification-subtitle">Work</span>
+                                <h3 className="qualification-title">Infosys INC</h3>
+                                <span className="qualification-subtitle">Software Engineer</span>
                                 <div className="qualification-calender">
-                                    <i className="uil uil-calendar-alt"></i> 2022 - Present
+                                    <i class="uil uil-location-point"></i>Dallas, TX, USA
+                                </div>
+                                <div className="qualification-calender">
+                                    <i className="uil uil-calendar-alt"></i> 2022 - Present, 1 yr 5 mos
                                 </div>
                             </div>
                             <div>
@@ -111,20 +101,26 @@ export default function Qualification() {
                             </div>
 
                             <div>
-                                <h3 className="qualification-title">Art 2</h3>
-                                <span className="qualification-subtitle">Institute</span>
+                                <h3 className="qualification-title">Revature</h3>
+                                <span className="qualification-subtitle">Full Stack Developer</span>
                                 <div className="qualification-calender">
-                                    <i className="uil uil-calendar-alt"></i> 2022 - Present
+                                    <i class="uil uil-location-point"></i>Reston, VA, USA
+                                </div>
+                                <div className="qualification-calender">
+                                    <i className="uil uil-calendar-alt"></i> 2022 - 2022, 6 mos
                                 </div>
                             </div>
                         </div>
 
                         <div className="qualification-data">
                             <div>
-                                <h3 className="qualification-title">Web Dis</h3>
-                                <span className="qualification-subtitle">Institute</span>
+                                <h3 className="qualification-title">Loci Properties</h3>
+                                <span className="qualification-subtitle">Frontend Developer</span>
                                 <div className="qualification-calender">
-                                    <i className="uil uil-calendar-alt"></i> 2022 - Present
+                                    <i class="uil uil-location-point"></i>Kalamazoo, MI, USA
+                                </div>
+                                <div className="qualification-calender">
+                                    <i className="uil uil-calendar-alt"></i> 2021 - 2022, 9 mos
                                 </div>
                             </div>
                             <div>
