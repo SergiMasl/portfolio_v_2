@@ -6,7 +6,7 @@ import Info from './Info'
 
 export default function About() {
   return (
-    <section className='about section' id="#about">
+    <section className='about section' id="about">
         <h2 className='section-title'>About me</h2>
         <span className='section-subtitle'>My introdaction</span>
 

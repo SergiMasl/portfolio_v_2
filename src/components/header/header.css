@@ -41,7 +41,7 @@
 
 /* active link: */
 
-activ-link, nav-link:hover {
+.active-link, .nav-link:hover {
     color: var(--title-color-dark)
 }
 
@@ -114,4 +114,10 @@ activ-link, nav-link:hover {
     .nav-list {
         column-gap: 0rem
     }
+}
+
+/* change background */
+
+.scroll-header {
+    box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
 }

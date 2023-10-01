@@ -10,7 +10,7 @@ export default function Qualification() {
 
 
   return (
-        <section className='qualification section' id="#qualification">
+        <section className='qualification section' id="qualification">
             <h2 className='section-title'>Qualification</h2>
             <span className='section-subtitle'>My personel journey</span>
 
