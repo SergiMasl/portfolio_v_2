@@ -16,13 +16,13 @@ export default function Footer() {
             </ul>
 
             <div className='footer-social'>
-                <a href="" className='footer-social-icon' target='_blank'>
+                <a href="https://www.facebook.com/sergey.maslinikov.9/" className='footer-social-icon' target='_blank'>
                     <i className="bx bxl-facebook"></i>
                 </a>
-                <a href="" className='footer-social-icon' target='_blank'>
+                <a href="https://www.instagram.com/sergisib/" className='footer-social-icon' target='_blank'>
                     <i className="bx bxl-instagram"></i>
                 </a>
-                <a href="" className='footer-social-icon' target='_blank'>
+                <a href="https://twitter.com/sergimas1192472/" className='footer-social-icon' target='_blank'>
                     <i className="bx bxl-twitter"></i>
                 </a>
             </div>
