@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio_v_2/static/css/main.d813e5ae.css",
-    "main.js": "/portfolio_v_2/static/js/main.0d29d5be.js",
+    "main.css": "/portfolio_v_2/static/css/main.b64993d6.css",
+    "main.js": "/portfolio_v_2/static/js/main.54f4e124.js",
     "static/media/weather_project.png": "/portfolio_v_2/static/media/weather_project.f09bc18b82b020a122ea.png",
     "static/media/project-car.png": "/portfolio_v_2/static/media/project-car.ea66ca7ab0985d7bff06.png",
     "static/media/project-coffee-app.png": "/portfolio_v_2/static/media/project-coffee-app.bb75984ac41ef7c02647.png",
@@ -10,11 +10,11 @@
     "static/media/cv.pdf": "/portfolio_v_2/static/media/cv.347e32277dce02863ad1.pdf",
     "static/media/pazlle.jpeg": "/portfolio_v_2/static/media/pazlle.a2d3dbb671f6e039a1a4.jpeg",
     "index.html": "/portfolio_v_2/index.html",
-    "main.d813e5ae.css.map": "/portfolio_v_2/static/css/main.d813e5ae.css.map",
-    "main.0d29d5be.js.map": "/portfolio_v_2/static/js/main.0d29d5be.js.map"
+    "main.b64993d6.css.map": "/portfolio_v_2/static/css/main.b64993d6.css.map",
+    "main.54f4e124.js.map": "/portfolio_v_2/static/js/main.54f4e124.js.map"
   },
   "entrypoints": [
-    "static/css/main.d813e5ae.css",
-    "static/js/main.0d29d5be.js"
+    "static/css/main.b64993d6.css",
+    "static/js/main.54f4e124.js"
   ]
 }
