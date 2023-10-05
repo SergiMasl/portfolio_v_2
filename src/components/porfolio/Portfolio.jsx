@@ -3,6 +3,8 @@ import CarLogo from "./project-car.png"
 import CoffeeLogo from "./project-coffee-app.png"
 import CurrentWeather from "../../assets/weather_project.png"
 import RaceGame from "../../assets/Race_game.png"
+import Travel from "../../assets/travel_project.png"
+import Watcflix from "../../assets/netflix_java_project.png"
 
 export default function Portfolio() {
   return (
@@ -25,11 +27,11 @@ export default function Portfolio() {
                     </div>
                     <div class="project-links">
                         <div >
-                            <a className="project-link-text" href="https://github.com/SergiMasl/car_rental">Code</a>
+                            <a className="project-link-text" href="https://github.com/SergiMasl/car_rental" target="_blank">Code</a>
                             <i class="uil uil-github"></i>
                         </div>
                         <div>
-                            <a className="project-link-text" href="https://sergimasl.github.io/car_rental/">Demo</a>
+                            <a className="project-link-text" href="https://sergimasl.github.io/car_rental/" target="_blank">Demo</a>
                             <i class="uil uil-browser"></i>
                         </div>
                     </div>
@@ -37,7 +39,58 @@ export default function Portfolio() {
             </div>
 
             <div className="project-break"></div>
+
+             {/* 5 */}
+             <div class="portfolio-content portfolio-description">
+                <h4 className="project-title">Travel blog</h4>
+                <p className="project-description">The app was built with Tailwind CSS and React, offers a seamless and visually appealing user experience. With its responsive design and intuitive interface.</p>
+                <div class="project-extra-info">
+                    <div class="project-libs">
+                        <p>React</p>
+                        <p>Tailwing</p>
+                    </div>
+                    <div class="project-links">
+                        <div >
+                            <a className="project-link-text" href="https://github.com/SergiMasl/Race-game" target="_blank">Code</a>
+                            <i class="uil uil-github"></i>
+                        </div>
+                        <div>
+                            <a className="project-link-text" href="https://sergimasl.github.io/Race-game/" target="_blank">Demo</a>
+                            <i class="uil uil-browser"></i>
+                        </div>
+                    </div>
+                </div>   
+            </div>
+            <div class="portfolio-img">
+                <img src={Travel} />
+            </div>
+
+            <div className="project-break"></div>
+
+             {/* 6 */}
+             <div class="portfolio-img">
+                <img src={Watcflix} />
+            </div>
+             <div class="portfolio-content portfolio-description">
+                <h4 className="project-title">Netflix Java/Angular</h4>
+                <p className="project-description">Watchflix is a collaborative project created using <strong>Java</strong>, Spring Microservise and Angular CLI version 13.2.6, developed by a team of two developers.</p>
+                <div class="project-extra-info">
+                    <div class="project-libs">
+                        <p>Angular</p>
+                        <p>Java</p>
+                        <p>Spring</p>
+                    </div>
+                    <div class="project-links">
+                        <div >
+                            <a className="project-link-text" href="https://github.com/SergiMasl/WatchFlix/tree/sergi" target="_blank">Code</a>
+                            <i class="uil uil-github"></i>
+                        </div>
+                    </div>
+                </div>   
+            </div>
             
+            <div className="project-break"></div>
+
             {/* second */}
             <div class="portfolio-content portfolio-description">
                 <h4 className="project-title">Coffee Online App</h4>
@@ -49,11 +102,11 @@ export default function Portfolio() {
                     </div>
                     <div class="project-links">
                         <div >
-                            <a className="project-link-text" href="https://github.com/SergiMasl/coffee-shop-app">Code</a>
+                            <a className="project-link-text" href="https://github.com/SergiMasl/coffee-shop-app" target="_blank">Code</a>
                             <i class="uil uil-github"></i>
                         </div>
                         <div>
-                            <a className="project-link-text" href="https://sergimasl.github.io/coffee-shop-app/">Demo</a>
+                            <a className="project-link-text" href="https://sergimasl.github.io/coffee-shop-app/" target="_blank">Demo</a>
                             <i class="uil uil-browser"></i>
                         </div>
                     </div>
@@ -79,16 +132,18 @@ export default function Portfolio() {
                     </div>
                     <div class="project-links">
                         <div >
-                            <a className="project-link-text" href="https://github.com/SergiMasl/weather-2.0">Code</a>
+                            <a className="project-link-text" href="https://github.com/SergiMasl/weather-2.0" target="_blank">Code</a>
                             <i class="uil uil-github"></i>
                         </div>
                         <div>
-                            <a className="project-link-text" href="https://sergimasl.github.io/weather-2.0/">Demo</a>
+                            <a className="project-link-text" href="https://sergimasl.github.io/weather-2.0/" target="_blank">Demo</a>
                             <i class="uil uil-browser"></i>
                         </div>
                     </div>
                 </div>   
             </div>
+
+            <div className="project-break"></div>
 
              {/* fouth */}
              <div class="portfolio-content portfolio-description">
@@ -101,11 +156,11 @@ export default function Portfolio() {
                     </div>
                     <div class="project-links">
                         <div >
-                            <a className="project-link-text" href="https://github.com/SergiMasl/Race-game">Code</a>
+                            <a className="project-link-text" href="https://github.com/SergiMasl/Race-game" target="_blank">Code</a>
                             <i class="uil uil-github"></i>
                         </div>
                         <div>
-                            <a className="project-link-text" href="https://sergimasl.github.io/Race-game/">Demo</a>
+                            <a className="project-link-text" href="https://sergimasl.github.io/Race-game/" target="_blank">Demo</a>
                             <i class="uil uil-browser"></i>
                         </div>
                     </div>
