@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio_v_2/static/css/main.b64993d6.css",
-    "main.js": "/portfolio_v_2/static/js/main.b0ccf7cd.js",
+    "main.js": "/portfolio_v_2/static/js/main.37cc9aeb.js",
+    "static/media/travel_project.png": "/portfolio_v_2/static/media/travel_project.3407045d3ce84d0783c4.png",
+    "static/media/netflix_java_project.png": "/portfolio_v_2/static/media/netflix_java_project.7c7b1734f6b1f8ea93c0.png",
     "static/media/weather_project.png": "/portfolio_v_2/static/media/weather_project.e1f2e267360b6406020c.png",
     "static/media/project-car.png": "/portfolio_v_2/static/media/project-car.ea66ca7ab0985d7bff06.png",
     "static/media/project-coffee-app.png": "/portfolio_v_2/static/media/project-coffee-app.bb75984ac41ef7c02647.png",
@@ -11,10 +13,10 @@
     "static/media/pazlle.jpeg": "/portfolio_v_2/static/media/pazlle.a2d3dbb671f6e039a1a4.jpeg",
     "index.html": "/portfolio_v_2/index.html",
     "main.b64993d6.css.map": "/portfolio_v_2/static/css/main.b64993d6.css.map",
-    "main.b0ccf7cd.js.map": "/portfolio_v_2/static/js/main.b0ccf7cd.js.map"
+    "main.37cc9aeb.js.map": "/portfolio_v_2/static/js/main.37cc9aeb.js.map"
   },
   "entrypoints": [
     "static/css/main.b64993d6.css",
-    "static/js/main.b0ccf7cd.js"
+    "static/js/main.37cc9aeb.js"
   ]
 }
